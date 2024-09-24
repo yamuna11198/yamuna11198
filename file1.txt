@@ -1,2 +1,1 @@
-sample file at 18:39 
-edited after the first commit
+sample file at 18:39
